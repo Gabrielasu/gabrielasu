@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="36" viewBox="0 0 1200 36" aria-hidden="true">
+  <style>
+    .dot{animation:run 5s ease-in-out infinite alternate}
+    @keyframes run{from{transform:translateX(0)}to{transform:translateX(1000px)}}
+    .sp{transform-box:fill-box;transform-origin:center;animation:spin 6s linear infinite}
+    @keyframes spin{to{transform:rotate(360deg)}}
+  </style>
+  <defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#C9849C" stop-opacity="0"/><stop offset=".5" stop-color="#C9849C"/><stop offset="1" stop-color="#C9849C" stop-opacity="0"/></linearGradient></defs>
+  <rect x="0" y="17.5" width="1200" height="1.2" fill="url(#g)"/>
+  <circle class="dot" cx="100" cy="18" r="3" fill="#C9849C" opacity=".85"/>
+  <path class="sp" d="M600,6 C602,16 602,16 612,18 C602,20 602,20 600,30 C598,20 598,20 588,18 C598,16 598,16 600,6Z" fill="#B5577A"/>
+</svg>
