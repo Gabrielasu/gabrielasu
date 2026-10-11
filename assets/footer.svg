@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="Thanks for stopping by. Curious minds build better software. Say hi on X at gabigebis.">
+  <style>
+    .w{animation:drift linear infinite}
+    .w1{animation-duration:14s}.w2{animation-duration:20s;animation-direction:reverse}.w3{animation-duration:28s}
+    @keyframes drift{to{transform:translateX(-300px)}}
+    .t{animation:rise 1s ease-out .2s both}.t2{animation:rise 1s ease-out .6s both}.t3{animation:rise 1s ease-out 1s both}
+    @keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+    .ring{transform-box:fill-box;transform-origin:center;animation:ring 2.8s ease-out 1.6s infinite;opacity:0}
+    @keyframes ring{0%{opacity:.5;transform:scale(1)}100%{opacity:0;transform:scale(1.18,1.5)}}
+    .sp{transform-box:fill-box;transform-origin:center;animation:tw 2.6s ease-in-out infinite}
+    .s2{animation-delay:-1.3s}.s3{animation-delay:-.6s}
+    @keyframes tw{0%,100%{opacity:.3;transform:scale(.6) rotate(0)}50%{opacity:1;transform:scale(1) rotate(45deg)}}
+  </style>
+  <defs><clipPath id="cl"><rect width="1200" height="330" rx="16"/></clipPath>
+  <path id="s" d="M0,-14 C2.2,-2.2 2.2,-2.2 14,0 C2.2,2.2 2.2,2.2 0,14 C-2.2,2.2 -2.2,2.2 -14,0 C-2.2,-2.2 -2.2,-2.2 0,-14Z"/></defs>
+  <g clip-path="url(#cl)">
+    <rect width="1200" height="330" fill="#FBF4F5"/>
+    <path class="w w3" d="M0 276 Q75.0 264 150.0 276 Q225.0 288 300 276 Q375.0 264 450.0 276 Q525.0 288 600 276 Q675.0 264 750.0 276 Q825.0 288 900 276 Q975.0 264 1050.0 276 Q1125.0 288 1200 276 Q1275.0 264 1350.0 276 Q1425.0 288 1500 276 Q1575.0 264 1650.0 276 Q1725.0 288 1800 276 Q1875.0 264 1950.0 276 Q2025.0 288 2100 276 Q2175.0 264 2250.0 276 Q2325.0 288 2400 276 L2400 340 L0 340Z" fill="#E7DCF2" opacity=".9"/>
+    <path class="w w2" d="M0 292 Q75.0 278 150.0 292 Q225.0 306 300 292 Q375.0 278 450.0 292 Q525.0 306 600 292 Q675.0 278 750.0 292 Q825.0 306 900 292 Q975.0 278 1050.0 292 Q1125.0 306 1200 292 Q1275.0 278 1350.0 292 Q1425.0 306 1500 292 Q1575.0 278 1650.0 292 Q1725.0 306 1800 292 Q1875.0 278 1950.0 292 Q2025.0 306 2100 292 Q2175.0 278 2250.0 292 Q2325.0 306 2400 292 L2400 340 L0 340Z" fill="#F8E4EA" opacity=".95"/>
+    <path class="w w1" d="M0 308 Q75.0 297 150.0 308 Q225.0 319 300 308 Q375.0 297 450.0 308 Q525.0 319 600 308 Q675.0 297 750.0 308 Q825.0 319 900 308 Q975.0 297 1050.0 308 Q1125.0 319 1200 308 Q1275.0 297 1350.0 308 Q1425.0 319 1500 308 Q1575.0 297 1650.0 308 Q1725.0 319 1800 308 Q1875.0 297 1950.0 308 Q2025.0 319 2100 308 Q2175.0 297 2250.0 308 Q2325.0 319 2400 308 L2400 340 L0 340Z" fill="#F3D3DE"/>
+    <g class="t"><text x="600" y="86" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="3" fill="#B5577A">THANKS FOR STOPPING BY</text></g>
+    <g class="t2"><text x="600" y="140" text-anchor="middle" font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,serif" font-size="42" fill="#3B1F2B">Curious minds build <tspan font-style="italic" fill="#B5577A">better software.</tspan></text></g>
+    <g class="t3">
+      <rect class="ring" x="470" y="176" width="260" height="44" rx="22" fill="none" stroke="#B5577A" stroke-width="2"/>
+      <rect x="470" y="176" width="260" height="44" rx="22" fill="#3B1F2B"/>
+      <g transform="translate(496 189) scale(.75)"><path d="M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z" fill="#FBF4F5"/></g>
+      <text x="528" y="204" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="17" fill="#FBF4F5">say hi @gabigebis</text>
+    </g>
+    <g transform="translate(250 128)"><use href="#s" class="sp" fill="#B5577A"/></g>
+    <g transform="translate(950 128)"><use href="#s" class="sp s2" fill="#9C84C9"/></g>
+    <g transform="translate(770 190)"><use href="#s" class="sp s3" fill="#C9849C"/></g>
+  </g>
+</svg>
