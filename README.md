@@ -1,65 +1,35 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/header.svg" />
-  <img src="./assets/header.svg" width="100%" alt="Hi, I'm Gabi. Full-Stack Software Engineer. Enterprise software by day, AI experiments and side projects here." />
+  <img src="./assets/header.svg" width="100%" alt="Hi, I'm Gabi. Full-Stack Software Engineer based in Chicago, IL. Enterprise software by day, AI experiments and side projects here." />
 </picture>
 
-<br />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 I'm a full-stack software engineer who builds scalable enterprise applications and leads software initiatives from concept to delivery. I use AI every day to build smarter applications, move faster, and ship better products.
 
 **This GitHub is my playground.** It's where I explore personal interests, try new ideas, and build side projects, especially around AI and developer tools.
 
-## Building now
-
-<table>
-  <tr>
-    <td valign="top">
-      <h4><a href="https://github.com/gabrielasu/REPO">project name</a> &nbsp;<sub><code>in progress</code></sub></h4>
-      A customizable terminal companion that reacts to your Claude Code sessions. Designed with Claude Design, built and tested with Claude Code.
-      <br /><br />
-      <sub><code>TypeScript</code> <code>CLI</code> <code>Claude Code</code></sub>
-    </td>
-  </tr>
-</table>
-
-<!--
-## Featured projects
-Copy this block when you have more projects to show.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/gabrielasu/REPO">project name</a></h4>
-      One line on what it does and why it's interesting.
-      <br /><br />
-      <sub><code>React</code> <code>AI</code></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/gabrielasu/REPO">project name</a></h4>
-      One line on what it does and why it's interesting.
-      <br /><br />
-      <sub><code>TypeScript</code></sub>
-    </td>
-  </tr>
-</table>
--->
-
-## Toolkit
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,ts,dotnet,cs,azure,git&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,ts,dotnet,cs,azure,git&theme=light" />
-  <img src="https://skillicons.dev/icons?i=react,ts,dotnet,cs,azure,git&theme=light" alt="React, TypeScript, .NET, C#, Azure, Git" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/terminal-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/terminal.svg" />
+  <img src="./assets/terminal.svg" width="100%" alt="Terminal: whoami, full-stack software engineer. Focus: AI-assisted development, developer tools, thoughtful UX. Stack: React, TypeScript, .NET, C#, SQL, Azure. Top languages: TypeScript, Python, JavaScript, HTML, CSS." />
 </picture>
 
-<sub>React · TypeScript · .NET · C# · SQL · Azure · AI-assisted development with Claude</sub>
+## Background
 
-## Most used languages
+**B.S. in Computer Science**, *summa cum laude*<br />
+Professionally, I bring **5+ years of software engineering experience**, leading and building enterprise software end to end and creating solutions that solve real business problems and improve user experiences.
 
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<a href="https://x.com/gabigebis">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielasu&layout=compact&hide_border=true&border_radius=12&card_width=380&bg_color=1C1118&title_color=F6E6EC&text_color=CDB3BE" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielasu&layout=compact&hide_border=true&border_radius=12&card_width=380&bg_color=FBF4F5&title_color=3B1F2B&text_color=6E5560" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/footer.svg" />
+  <img src="./assets/footer.svg" width="100%" alt="Thanks for stopping by. Curious minds build better software. Say hi on X @gabigebis." />
+</picture>
+</a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielasu&layout=compact&hide_border=true&border_radius=12&card_width=380&bg_color=FBF4F5&title_color=3B1F2B&text_color=6E5560" alt="Most used languages" />
 </picture>
 
