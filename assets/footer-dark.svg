@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="Thanks for stopping by. Curious minds build better software. Say hi on X at gabigebis.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-label="Thanks for stopping by. Say hi on X at gabigebis.">
   <style>
     .w{animation:drift linear infinite}
     .w1{animation-duration:14s}.w2{animation-duration:20s;animation-direction:reverse}.w3{animation-duration:28s}
@@ -11,23 +11,22 @@
     .s2{animation-delay:-1.3s}.s3{animation-delay:-.6s}
     @keyframes tw{0%,100%{opacity:.3;transform:scale(.6) rotate(0)}50%{opacity:1;transform:scale(1) rotate(45deg)}}
   </style>
-  <defs><clipPath id="cl"><rect width="1200" height="330" rx="16"/></clipPath>
+  <defs><clipPath id="cl"><rect width="1200" height="210" rx="16"/></clipPath>
   <path id="s" d="M0,-14 C2.2,-2.2 2.2,-2.2 14,0 C2.2,2.2 2.2,2.2 0,14 C-2.2,2.2 -2.2,2.2 -14,0 C-2.2,-2.2 -2.2,-2.2 0,-14Z"/></defs>
   <g clip-path="url(#cl)">
-    <rect width="1200" height="330" fill="#1C1118"/>
-    <path class="w w3" d="M0 276 Q75.0 264 150.0 276 Q225.0 288 300 276 Q375.0 264 450.0 276 Q525.0 288 600 276 Q675.0 264 750.0 276 Q825.0 288 900 276 Q975.0 264 1050.0 276 Q1125.0 288 1200 276 Q1275.0 264 1350.0 276 Q1425.0 288 1500 276 Q1575.0 264 1650.0 276 Q1725.0 288 1800 276 Q1875.0 264 1950.0 276 Q2025.0 288 2100 276 Q2175.0 264 2250.0 276 Q2325.0 288 2400 276 L2400 340 L0 340Z" fill="#2E2448" opacity=".9"/>
-    <path class="w w2" d="M0 292 Q75.0 278 150.0 292 Q225.0 306 300 292 Q375.0 278 450.0 292 Q525.0 306 600 292 Q675.0 278 750.0 292 Q825.0 306 900 292 Q975.0 278 1050.0 292 Q1125.0 306 1200 292 Q1275.0 278 1350.0 292 Q1425.0 306 1500 292 Q1575.0 278 1650.0 292 Q1725.0 306 1800 292 Q1875.0 278 1950.0 292 Q2025.0 306 2100 292 Q2175.0 278 2250.0 292 Q2325.0 306 2400 292 L2400 340 L0 340Z" fill="#3A1C2D" opacity=".95"/>
-    <path class="w w1" d="M0 308 Q75.0 297 150.0 308 Q225.0 319 300 308 Q375.0 297 450.0 308 Q525.0 319 600 308 Q675.0 297 750.0 308 Q825.0 319 900 308 Q975.0 297 1050.0 308 Q1125.0 319 1200 308 Q1275.0 297 1350.0 308 Q1425.0 319 1500 308 Q1575.0 297 1650.0 308 Q1725.0 319 1800 308 Q1875.0 297 1950.0 308 Q2025.0 319 2100 308 Q2175.0 297 2250.0 308 Q2325.0 319 2400 308 L2400 340 L0 340Z" fill="#4A2238"/>
-    <g class="t"><text x="600" y="86" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="3" fill="#E58BAA">THANKS FOR STOPPING BY</text></g>
-    <g class="t2"><text x="600" y="140" text-anchor="middle" font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,serif" font-size="42" fill="#F6E6EC">Curious minds build <tspan font-style="italic" fill="#E58BAA">better software.</tspan></text></g>
+    <rect width="1200" height="210" fill="#1C1118"/>
+    <path class="w w3" d="M0 170 Q75.0 160 150.0 170 Q225.0 180 300 170 Q375.0 160 450.0 170 Q525.0 180 600 170 Q675.0 160 750.0 170 Q825.0 180 900 170 Q975.0 160 1050.0 170 Q1125.0 180 1200 170 Q1275.0 160 1350.0 170 Q1425.0 180 1500 170 Q1575.0 160 1650.0 170 Q1725.0 180 1800 170 Q1875.0 160 1950.0 170 Q2025.0 180 2100 170 Q2175.0 160 2250.0 170 Q2325.0 180 2400 170 L2400 340 L0 340Z" fill="#2E2448" opacity=".9"/>
+    <path class="w w2" d="M0 182 Q75.0 171 150.0 182 Q225.0 193 300 182 Q375.0 171 450.0 182 Q525.0 193 600 182 Q675.0 171 750.0 182 Q825.0 193 900 182 Q975.0 171 1050.0 182 Q1125.0 193 1200 182 Q1275.0 171 1350.0 182 Q1425.0 193 1500 182 Q1575.0 171 1650.0 182 Q1725.0 193 1800 182 Q1875.0 171 1950.0 182 Q2025.0 193 2100 182 Q2175.0 171 2250.0 182 Q2325.0 193 2400 182 L2400 340 L0 340Z" fill="#3A1C2D" opacity=".95"/>
+    <path class="w w1" d="M0 194 Q75.0 185 150.0 194 Q225.0 203 300 194 Q375.0 185 450.0 194 Q525.0 203 600 194 Q675.0 185 750.0 194 Q825.0 203 900 194 Q975.0 185 1050.0 194 Q1125.0 203 1200 194 Q1275.0 185 1350.0 194 Q1425.0 203 1500 194 Q1575.0 185 1650.0 194 Q1725.0 203 1800 194 Q1875.0 185 1950.0 194 Q2025.0 203 2100 194 Q2175.0 185 2250.0 194 Q2325.0 203 2400 194 L2400 340 L0 340Z" fill="#4A2238"/>
+    <g class="t2"><text x="600" y="66" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="16" font-weight="600" letter-spacing="4" fill="#E58BAA">THANKS FOR STOPPING BY</text></g>
     <g class="t3">
-      <rect class="ring" x="470" y="176" width="260" height="44" rx="22" fill="none" stroke="#E58BAA" stroke-width="2"/>
-      <rect x="470" y="176" width="260" height="44" rx="22" fill="#F6E6EC"/>
-      <g transform="translate(496 189) scale(.75)"><path d="M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z" fill="#1C1118"/></g>
-      <text x="528" y="204" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="17" fill="#1C1118">say hi @gabigebis</text>
+      <rect class="ring" x="470" y="88" width="260" height="44" rx="22" fill="none" stroke="#E58BAA" stroke-width="2"/>
+      <rect x="470" y="88" width="260" height="44" rx="22" fill="#F6E6EC"/>
+      <g transform="translate(496 101) scale(.75)"><path d="M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z" fill="#1C1118"/></g>
+      <text x="528" y="116" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="17" fill="#1C1118">say hi @gabigebis</text>
     </g>
-    <g transform="translate(250 128)"><use href="#s" class="sp" fill="#E58BAA"/></g>
-    <g transform="translate(950 128)"><use href="#s" class="sp s2" fill="#B9A3E6"/></g>
-    <g transform="translate(770 190)"><use href="#s" class="sp s3" fill="#B9708C"/></g>
+    <g transform="translate(370 60)"><use href="#s" class="sp" fill="#E58BAA"/></g>
+    <g transform="translate(830 60)"><use href="#s" class="sp s2" fill="#B9A3E6"/></g>
+    <g transform="translate(760 108)"><use href="#s" class="sp s3" fill="#B9708C"/></g>
   </g>
 </svg>
