@@ -1,25 +1,25 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/terminal-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/terminal.svg" />
-  <img src="./assets/terminal.svg" width="100%" alt="Terminal: whoami, full-stack software engineer. Focus: AI-assisted development, developer tools, thoughtful UX. Stack: React, TypeScript, .NET, C#, SQL, Azure. Top languages: TypeScript, Python, JavaScript, HTML, CSS." />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/console-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/console.svg" />
+  <img src="./assets/console.svg" width="100%" alt="Terminal. Gabi, full-stack software engineer in Chicago. 5+ years shipping enterprise software; B.S. Computer Science, summa cum laude. Pairs with AI every day: it drafts, she decides what ships. Stack: React, TypeScript, .NET, C#, SQL, Azure. A spinning seed head shows most used languages: TypeScript, C#, CSS, Python." />
 </picture>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+I write software for a living and for fun. By day that means enterprise apps built end to end with React, TypeScript, .NET and Azure. AI sits in the middle of all of it: I use it to explore ideas, write first drafts, test and review, and I keep the judgment calls for myself.
 
-I'm a full-stack software engineer who builds scalable enterprise applications and leads software initiatives from concept to delivery. I use AI every day to build smarter applications, move faster, and ship better products.
+Off the clock I'm curious about multi-agent systems, where a small team of specialized agents plans, builds and reviews each other's work, and about AI tools that make a developer's day a little more personal.
 
-Professionally, I bring **5+ years of software engineering experience**, leading and building enterprise software end to end and creating solutions that solve real business problems and improve user experiences.
+This GitHub is my playground for all of it: agent experiments, developer tools, and side projects where code oftentimes meets art.
 
-I graduated with a **B.S. in Computer Science**, *summa cum laude*.
-
-**This GitHub is my playground.** It's where I explore personal interests, try new ideas, and build side projects, especially around AI and developer tools.
-
-<img src="./assets/divider.svg" width="100%" alt="" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/divider.svg" />
+  <img src="./assets/divider.svg" width="100%" alt="" />
+</picture>
 
 <a href="https://x.com/gabigebis">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/footer.svg" />
-  <img src="./assets/footer.svg" width="100%" alt="Thanks for stopping by. Say hi on X @gabigebis." />
+  <img src="./assets/footer.svg" width="100%" alt="Building something interesting? Say hi on X at gabigebis." />
 </picture>
 </a>
