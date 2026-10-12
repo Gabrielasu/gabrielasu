@@ -11,15 +11,15 @@ Off the clock I'm curious about multi-agent systems, where a small team of speci
 This GitHub is my playground for all of it: agent experiments, developer tools, and side projects where code oftentimes meets art.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/divider.svg" />
-  <img src="./assets/divider.svg" width="100%" alt="" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark-v2.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-v2.svg" />
+  <img src="./assets/divider-v2.svg" width="100%" alt="" />
 </picture>
 
 <a href="https://x.com/gabigebis">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/footer.svg" />
-  <img src="./assets/footer.svg" width="100%" alt="Building something interesting? Say hi on X at gabigebis." />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark-v2.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/footer-v2.svg" />
+  <img src="./assets/footer-v2.svg" width="100%" alt="Building something interesting? Say hi on X at gabigebis." />
 </picture>
 </a>
