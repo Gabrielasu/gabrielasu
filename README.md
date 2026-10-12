@@ -10,12 +10,6 @@ I'm the kind of engineer who notices when a button is two pixels off and can't s
 
 AI changes month to month, and I like keeping up. This GitHub is my playground for all of it: agent experiments, developer tools, and side projects where code oftentimes meets art.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark-v4.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-v4.svg" />
-  <img src="./assets/divider-v4.svg" width="100%" alt="" />
-</picture>
-
 <a href="https://x.com/gabigebis">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark-v4.svg" />
