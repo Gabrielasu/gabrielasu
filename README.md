@@ -4,11 +4,11 @@
   <img src="./assets/console.svg" width="100%" alt="Terminal. Gabi, full-stack software engineer in Chicago. 5+ years shipping enterprise software; B.S. Computer Science, summa cum laude. Pairs with AI every day: it drafts, she decides what ships. Stack: React, TypeScript, .NET, C#, SQL, Azure. A spinning seed head shows most used languages: TypeScript, C#, CSS, Python." />
 </picture>
 
-I write software for a living and for fun. By day that means enterprise apps built end to end with React, TypeScript, .NET and Azure. AI sits in the middle of all of it: I use it to explore ideas, write first drafts, test and review, and I keep the judgment calls for myself.
+By day I build enterprise software with React, TypeScript, .NET and Azure. By night I'm usually making something that doesn't need to exist but deserves to: a tool, an experiment, a small piece of art that happens to be written in code.
 
-Off the clock I'm curious about multi-agent systems, where a small team of specialized agents plans, builds and reviews each other's work, and about AI tools that make a developer's day a little more personal.
+I'm the kind of engineer who notices when a button is two pixels off and can't stop thinking about it. I think the best software feels like it was made by someone who cared, and that's the bar I hold myself to.
 
-This GitHub is my playground for all of it: agent experiments, developer tools, and side projects where code oftentimes meets art.
+AI changes month to month, and I like keeping up. This GitHub is my playground for all of it: agent experiments, developer tools, and side projects where code oftentimes meets art.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark-v2.svg" />
