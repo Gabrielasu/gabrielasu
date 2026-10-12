@@ -12,8 +12,8 @@ AI changes month to month, and I like keeping up. This GitHub is my playground f
 
 <a href="https://x.com/gabigebis">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark-v4.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/footer-v4.svg" />
-  <img src="./assets/footer-v4.svg" width="100%" alt="Say hi on X at gabigebis." />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark-v5.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/footer-v5.svg" />
+  <img src="./assets/footer-v5.svg" width="100%" alt="Terminal line: say hi on X at gabigebis." />
 </picture>
 </a>
